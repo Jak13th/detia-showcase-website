@@ -20,7 +20,7 @@ const Header = () => {
             <Button 
               variant="secondary" 
               size="lg" 
-              className="bg-white text-primary-900 hover:bg-gray-300"
+              className="bg-white text-primary-900 hover:bg-gray-200"
             >
               Nous contacter
             </Button>
